@@ -1,7 +1,68 @@
-<style>
-	#cabecalho{
-		background-color: green;
-		height: 250px;
-		text-align: center;
-	}
-</style>
+.cabecalho{
+    background-image: linear-gradient(to right, #1f7a1f, #1a651a);
+    padding: 10px 2em 10px 2em;
+    display: flex;
+    vertical-align: baseline;
+}
+            
+.rodape{
+    background-image: linear-gradient(to right, #1f7a1f, #1a651a);
+    text-align: center;
+    color: white;
+    font-family: 'Baloo Bhai', cursive;
+    line-height: 0.25;
+    padding: 1.5%;
+}
+            
+.texto{
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: 'Merriweather', serif;
+    overflow: auto;
+    margin-bottom: 40px;
+}
+
+.logo{
+    flex: 1;
+    width: 500px;
+    left: 10%;
+
+}
+
+.contato
+{
+    position: absolute;
+    top: 5%;
+    right: 5%;
+
+}
+
+h1{
+    font-size: 50px;
+    font-family: 'Baloo Bhai', cursive;   
+}
+
+p{
+    font-size: 27px;
+    text-indent: 50px;
+    font-family: 'Merriweather', serif;
+    text-align: justify;
+}
+
+hr{
+    color: #008000;
+    margin-top: 25px;
+    overflow: auto;
+}
+
+article{
+    display: block;
+}
+
+h3{
+    font-size: 30px; 
+}
+
+h4{
+    font-size: 25px;
+}
