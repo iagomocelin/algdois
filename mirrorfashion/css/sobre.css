@@ -1,0 +1,73 @@
+
+    h1 {
+        font-family: sans-serif;
+        background-image: url(../img/sobre-background.jpg);
+    }
+    
+    h2 {
+        font-family: sans-serif;
+        margin-top: 30px;
+        border-bottom: 2px solid #333333;
+    }
+    #invite{
+        text-align: center;
+    }
+
+    #invite h2 {
+    padding: 1em;
+       background-color: #bebebe;
+       border-bottom: 0px;
+    }
+    p {
+        padding: 0 px;
+        text-indent: 15px;
+    }
+    figure {
+        padding: 15px;
+        margin: 30px;
+        background-color: #F2EDED;
+        border: 1px solid #ccc;
+        text-align: center;
+    }
+    figcaption {
+        margin-top: 10px;
+        font-style: italic;
+    }
+    body {
+        margin-left: auto;
+        margin-right: auto;
+        width: 940px;
+        text-align: justify;
+    }
+    #centro-distribuicao {
+        padding: 15px;
+        margin: 30px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 550px;
+        background-color: #F2EDED;
+        border: 1px solid #ccc;
+        text-align: center;
+    }
+    #cabecalho {
+        color: white;
+        text-align: center;
+    }
+    #rodape {
+        color: #777;
+        margin: 30px 0;
+        padding: 30px 0;
+    }
+    #rodape img {
+        margin-right: 30px;
+        vertical-align: middle;
+        width: 94px;
+    }
+    #familia-pelho {
+        float: right;
+        margin: 0 0 10px 10px;
+        padding: 15px;
+        background-color: #F2EDED;
+        border: 1px solid #ccc;
+        text-align: center;
+    }
